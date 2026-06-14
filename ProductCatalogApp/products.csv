@@ -1,0 +1,9 @@
+Id,Name,Category,Price,Stock
+1,Apple,Food,0.50,200
+2,Laptop,Electronics,999.99,15
+3,Notebook,Stationery,3.99,500
+4,Banana,Food,0.30,300
+5,Headphones,Electronics,49.99,80
+6,Pen,Stationery,1.50,1000
+7,Orange,Food,0.70,150
+8,Smartphone,Electronics,699.99,25
